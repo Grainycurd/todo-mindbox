@@ -17,3 +17,4 @@
     Ключевая на ваш взгляд функциональность обязательно покрыта тестами
     Проект должен запускаться командой npm i && npm run start
     Проект доступен на GitHub Pages/Vercel/etc.
+https://todo-mindbox-git-main-grainycurdfs-projects-c06b1f99.vercel.app
